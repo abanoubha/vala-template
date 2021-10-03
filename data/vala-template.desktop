@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vala Template
+GenericName=Vala Template App
+Comment=Proves that we can use Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.abanoubhannaazer.vala-template
+Icon=com.github.abanoubhannaazer.vala-template
+Terminal=false
+Type=Application
+Keywords=Vala;Gtk;Template;
